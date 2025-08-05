@@ -1,8 +1,8 @@
-# langgraph_uv
+# langgraph_legal and tax_agent
 
 ## Overview
 
-**langgraph_uv** is a Python-based AI agent project for legal and tax Q&A, focusing on Income Tax and Real Estate Tax.  
+**langgraph_legal and tax_agent** is a Python-based AI agent project for legal and tax Q&A, focusing on Income Tax and Real Estate Tax.  
 It leverages modern LLM and vector database technologies such as LangChain, LangGraph, OpenAI, and ChromaDB.  
 Each tax domain implements a Retrieval-Augmented Generation (RAG) pipeline for accurate, context-aware answers.
 

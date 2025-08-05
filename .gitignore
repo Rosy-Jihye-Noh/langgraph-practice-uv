@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 환경설정/비밀키
+.env
+*.env
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# OS/에디터 파일
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# 패키지/의존성
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.egg
+
+# 가상환경
+venv/
+.venv/
+env/
+ENV/
+
+# 로그/임시파일
+*.log
+*.tmp
+
+# 데이터베이스/벡터스토어
+chroma_tax/
+real_estate_tax_collection/
+
+# 기타
+*.lock
